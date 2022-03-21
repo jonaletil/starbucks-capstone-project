@@ -2,17 +2,13 @@
 Udacity Data Scientists Nanodegree - Starbucks Capstone Project
 
 - [Overview](#overview)
-- [Project Motivation](#motivation)
 - [Analysis Findings](#findings)
 - [File Descriptions](#file-descriptions)
 - [Reference and Acknowledgements](#reference-and-acknowledgements)
 
 ## Project Overview <a name="overview"></a>
 This is the capstone project for the Udacity Data Scientist NanoDegree program by Udacity in collaboration with Starbucks. 
-
-## Project Motivation <a name="motivation"></a>
-Sending offers to customer is a good strategy to attract new customers and retain existing one. However, not all customers respond in a similar way and individual customers have their own preferences towards received offer types. A customer might be interested in saving money with discounts, another might be more interested in getting more items for less while a different customer would prefer to only know about what is new without caring for any savings. This brings us to the topic of this article and we starting with our problem statement:
-We aim to identify Starbucks customers behavior in regards to sent offers. This include analyzing and grouping Starbucks customers to provide customized offers that has higher chance of attracting and retaining customers and influencing their purchases.
+In this project we work with simulated data that mimics customer behavior on the Starbucks rewards mobile app. 
 
 ## Analysis Findings <a name="findings"></a>
 Analysis findings are documented in the following meduim [article](https://medium.com/@jnaletil/starbucks-app-offers-analysis-4b974aafaf6d)
