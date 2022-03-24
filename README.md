@@ -44,4 +44,4 @@ Analysis findings are documented in the following meduim [article](https://mediu
 
 
 ## Reference and Acknowledgements
-The data used in this project was provided by Udacity
+The data used in this project was provided by Udacity and Starbucks
